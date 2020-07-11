@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### Welcome to my repo! 👯
+
 <!--
 **pravspk/pravspk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##### This is Praveen Kumar R, undergraduate in Electronics & Computer Engineering from Vellore Institute of Technology, Chennai.
+
+##### I'm currently into Data Science.
+
+##### You can reach me at :
+        Gmail : rpraveenkumar3399@gmail.com
+        LinkedIn : https://www.linkedin.com/in/praveen-kumar-r-pravs/
+        WhatsApp : +91 9940252916
+        
